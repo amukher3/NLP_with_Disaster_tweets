@@ -7,6 +7,8 @@ Using pre-trained models such as BERT,ALBERTA,ELECTRA etc might end up giving a 
 
 In a separate notebook,I have further explored the data-set by taking the location into account and exploring the top-10 most frequently mentinoned location for each category. 
 
+_Exploratory Data Analysis_ is done separately on the `.ipynb` file attached to the repo. Please refer to that for EDA on the data-set. 
+
 ***Author:Abhishek Mukherjee***
 
 
